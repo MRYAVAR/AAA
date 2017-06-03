@@ -543,6 +543,3 @@ our_id = 0
 now = os.time()
 math.randomseed(now)
 started = false
-
---@mafia_cli
---https://github.com/mafia-007
